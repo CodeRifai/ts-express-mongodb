@@ -47,3 +47,25 @@ Untuk menginstal Express.js, jalankan perintah berikut:<br>
 # Instalasi @types/express
 Untuk menginstal @types/express, jalankan perintah berikut:<br>
 <img src="./src/assets/imgmd/11.png">
+
+# Konfigurasi EsLint
+Untuk mengkonfigurasi EsLint pertama jalankan perintah berikut:<br>
+<img src="./src/assets/imgmd/12.png"><br>
+setelah itu pilih (y) lalu enter <br>
+Setelah itu akan muncul beberapa pertanyaan: <br>
+1. <img src="./src/assets/imgmd/13.png"> <br>
+2. setelah langkah-langkah diatas selesai maka jalankan perintah berikut: <br>
+   <img src="./src/assets/imgmd/14.png">
+
+# Konfigurasi file .eslintrc.json <br>
+<img src="./src/assets/imgmd/15.png">
+
+# Instalasi Prettier
+1. isntall extension terlebih dahulu
+2. lalu install prettier dengan perintah: <br>
+   <img src="./src/assets/imgmd/16.png">
+
+# Konfigurasi Prettier
+1. Buat file dengan nama .prettierrc
+2. setelah itu isi file tersebut dengan: <br>
+   <img src="./src/assets/imgmd/17.png">
