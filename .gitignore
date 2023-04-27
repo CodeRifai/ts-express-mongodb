@@ -1,0 +1,12 @@
+#dependencies
+/node_modules
+
+#testimg
+/coverage
+
+#production
+/dist
+/build
+
+#misc
+Thumbs.db
