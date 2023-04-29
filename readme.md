@@ -9,7 +9,7 @@ Untuk menginisialisasi proyek, jalankan perintah berikut: <br> <img src ="./src/
 # Instalasi TypeScript
 Untuk menginstal TypeScript pada pengembangan, jalankan perintah berikut:<br> <img src="./src/assets/imgmd/2.png">
 # Konfigurasi TypeScript
-Untuk mengkonfigurasi TypeScript, jalankan perintah berikut:<br> <img src="./src/assets/imgmd/3.png">
+Untuk mengkonfigurasi TypeScript, jalankan perintah berikut:<br> <img src="./src/assets/imgmd/3.png"> <br>
 Setelah itu, ubah file tsconfig.json seperti berikut:<br> <img src="./src/assets/imgmd/4.png">
 # Instalasi Nodemon
 Untuk menginstal Nodemon, jalankan perintah berikut:<br> <img src="./src/assets/imgmd/5.png">
@@ -37,7 +37,7 @@ Setelah itu akan muncul beberapa pertanyaan: <br>
 2. lalu install prettier dengan perintah: <br> <img src="./src/assets/imgmd/16.png">
 # Konfigurasi Prettier
 1. Buat file dengan nama .prettierrc
-2. setelah itu isi file tersebut dengan: <br> <img src="./src/assets/imgmd/17.png">
+2. setelah itu isi file tersebut dengan: <br> <img src="./src/assets/imgmd/17.png"> 
 3. lalu buat file .prettierignore dan isi file tersebut dengan: <br> <img src="./src/assets/imgmd/18.png">
 4. edit file package.json <br> <img src="./src/assets/imgmd/19.png">
 # Setup Pre-Commit Husky
