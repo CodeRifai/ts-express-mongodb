@@ -18,7 +18,7 @@ Untuk mengkonfigurasi Nodemon, buat file nodemon.json dan isi dengan kode beriku
 # Konfigurasi package.json
 Untuk mengkonfigurasi package.json, ubah script menjadi seperti berikut:<br> <img src="./src/assets/imgmd/7.png">
 # Uji Proyek
-Untuk menguji proyek, buat file server.ts pada folder src dan isi dengan kode berikut:<br> <img src="./src/assets/imgmd/8.png">
+Untuk menguji proyek, buat file server.ts pada folder src dan isi dengan kode berikut:<br> <img src="./src/assets/imgmd/8.png"> <br>
 Lalu jalankan perintah npm run dev di terminal VSCode. Jika berhasil, maka hasilnya akan seperti berikut:<br> <img src="./src/assets/imgmd/9.png">
 # Instalasi Express.js
 Untuk menginstal Express.js, jalankan perintah berikut:<br> <img src="./src/assets/imgmd/10.png">
