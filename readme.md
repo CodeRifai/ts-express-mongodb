@@ -44,4 +44,6 @@ Setelah itu akan muncul beberapa pertanyaan: <br>
 Pre-commit hooks adalah alat yang sangat berguna untuk memverifikasi kualitas kode dan mencegah terjadinya kesalahan ketika melakukan commit pada repositori Git. Pada panduan ini, kita akan melakukan setup pre-commit hooks menggunakan Husky, sebuah library Node.js yang populer dan memungkinkan kita untuk menjalankan Git hooks dengan mudah.
 # Instalasi Husky  dan Pretty-quick <br> <img src="./src/assets/imgmd/20.png">
 # Konfigurasi Husky pada package.json <br> <img src="./src/assets/imgmd/21.png">
-# Test Husky dengan cara <br> <img src="./src/assets/imgmd/22.png">
+# Test Husky dengan cara <br> <img src="./src/assets/imgmd/22.png"> <br>
+setelah menjalankan (test husky) langkah selanjutnya yaitu membuat file (pre-commit) pada folder .husky<br>
+<img src="./src/assets/imgmd/23.png">
