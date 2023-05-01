@@ -47,3 +47,8 @@ Pre-commit hooks adalah alat yang sangat berguna untuk memverifikasi kualitas ko
 # Test Husky dengan cara <br> <img src="./src/assets/imgmd/22.png"> <br>
 setelah menjalankan (test husky) langkah selanjutnya yaitu membuat file (pre-commit) pada folder .husky<br>
 <img src="./src/assets/imgmd/23.png">
+
+# NB:
+Sebelum kita melakukan GIT ADD . untuk menambah file, serta melakakukan GIT COMMIT dan melakukan PUSH
+kita perlu melakukan "npm run format" lalu melakukan "npm run lint" untuk mengecek code sudah sesuai atau belum
+jika sudah sesuai maka baru melakukan "GIT ADD ." "GIT COMMIT -m" lalu "GIT PUSH"
